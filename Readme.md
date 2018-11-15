@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Series_Funnel/Form1.cs) (VB: [Form1.vb](./VB/Series_Funnel/Form1.vb))
+* [Program.cs](./CS/Series_Funnel/Program.cs) (VB: [Program.vb](./VB/Series_Funnel/Program.vb))
+<!-- default file list end -->
 # How to create a Funnel chart
 
 
