@@ -2,13 +2,10 @@
 *Files to look at*:
 
 * [Form1.cs](./CS/Series_Funnel/Form1.cs) (VB: [Form1.vb](./VB/Series_Funnel/Form1.vb))
-* [Program.cs](./CS/Series_Funnel/Program.cs) (VB: [Program.vb](./VB/Series_Funnel/Program.vb))
 <!-- default file list end -->
 # How to create a Funnel chart
 
 
-<p>The following example demonstrates how to create a <a href="http://www.devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6222.htm">Funnel</a> chart at runtime.</p><p>Note that this series view type is associated with the <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5906.htm">Simple Diagram</a> type, and you should cast your <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6017.htm">diagram</a> object to this type, in order to access its specific options.</p>
+The following example demonstrates how to create a [Funnel](https://docs.devexpress.com/WindowsForms/6222/controls-and-libraries/chart-control/series-views/2d-series-views/funnel-series-view?p=netframework) chart at runtime.
 
-<br/>
-
-
+Note that this series view type is associated with the [Simple Diagram](https://docs.devexpress.com/WindowsForms/5906/controls-and-libraries/chart-control/diagram/simple-diagram?p=netframework) type, and you should cast your [diagram](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.Diagram?p=netframework) object to this type, in order to access its specific options.
